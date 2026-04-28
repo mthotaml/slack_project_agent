@@ -1,0 +1,5 @@
+project_name,owner,status,priority,due_date,blockers,next_step,last_updated
+Project Atlas,Mohan,On Track,High,2026-05-10,None,Complete UAT checklist,2026-04-25
+API Migration,Engineering Team,Blocked,Critical,2026-05-15,Waiting on security review,Schedule security review follow-up,2026-04-26
+Executive Dashboard,Data Team,At Risk,Medium,2026-05-20,Data quality gaps,Validate source metrics,2026-04-26
+Slack AI Agent,Product Ops,On Track,Medium,2026-05-05,None,Finalize demo workflow,2026-04-27
